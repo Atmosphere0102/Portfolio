@@ -166,7 +166,7 @@ section .title::after{
 
 /* my about styling start */
 .about .title::after{
-    content: "Who i am";
+    content: "Get to know me";
 }
 .about .about-content .left{
     width: 45%;
@@ -222,7 +222,7 @@ section .title::after{
 }
 .service .title::after{
     background: #111;
-    content: "What i offer";
+    content: "What I offer";
 }
 .service .service-content .card{
     width: calc(25% - 35px);
