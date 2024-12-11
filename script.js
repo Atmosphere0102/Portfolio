@@ -13,14 +13,14 @@ $(function(){
         $('.menu-btn i').toggleClass("active");
     });
     var typed = new Typed(".typing", {
-        strings: ["Web Developer", "Graphic Designer", "Social Media Manager"],
+        strings: ["FrontEnd Developer", "Graphic Designer", "Digital Marketer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer", "Graphic Designer", "Social Media Manager"],
+        strings: ["FrontEnd Developer", "Graphic Designer", "Digital Marketer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
