@@ -577,8 +577,6 @@ section .title::after{
         width: 100%;
     }
     .contact .contact-content .column{
-        width: 100%;
-        margin-bottom: 35px;
         flex-direction: column;
     }
     /* projects area end */
@@ -594,8 +592,6 @@ section .title::after{
         font-size: 27px;
     }
     .contact .contact-content .column{
-        width: 100%;
-        margin-bottom: 35px;
         flex-direction: column;
     }
 }
