@@ -531,6 +531,7 @@ section .title::after{
     .contact .contact-content .column{
         width: 100%;
         margin-bottom: 35px;
+        flex-direction: column;
     }
     /* portfolio area End  */
 
@@ -575,6 +576,11 @@ section .title::after{
     .projects .project-container{
         width: 100%;
     }
+    .contact .contact-content .column{
+        width: 100%;
+        margin-bottom: 35px;
+        flex-direction: column;
+    }
     /* projects area end */
 }
 /* responsiveness at 690 end */
@@ -586,6 +592,11 @@ section .title::after{
     }
     .home .home-content .text-3{
         font-size: 27px;
+    }
+    .contact .contact-content .column{
+        width: 100%;
+        margin-bottom: 35px;
+        flex-direction: column;
     }
 }
 /* responsiveness at 690 end */
