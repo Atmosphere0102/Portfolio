@@ -384,8 +384,8 @@ section .title::after{
   bottom: 50%;
 }
 .socicon{
-  width: 33px;
-  height: 33px;
+  width: 25px;
+  height: 25px;
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
