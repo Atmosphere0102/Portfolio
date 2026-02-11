@@ -48,7 +48,7 @@
     color: #fff;
   }
   
-  /* 🌟 Navbar */
+  /* Navbar */
   .navbar {
     background: #fff;
     padding: 15px 0;
@@ -86,7 +86,7 @@
     display: none;
   }
   
-  /* 🎯 Hero Section */
+  /* Hero Section */
   .hero {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
                 url("images/a1.jpg") center/cover no-repeat;
@@ -109,7 +109,7 @@
     color: #e63946;
   }
   
-  /* 👤 About */
+  /* About */
   .about {
     padding: 80px 0;
     background: #fff;
@@ -130,7 +130,7 @@
     font-size: 1rem;
   }
   
-  /* 💼 Services */
+  /* Services */
   .services {
     padding: 80px 0;
     background: #f9f9f9;
@@ -157,7 +157,7 @@
     margin-bottom: 15px;
   }
   
-  /* 🖼 Portfolio */
+  /* Portfolio */
   .portfolio {
     padding: 80px 0;
     background: #fff;
@@ -229,7 +229,7 @@
     color: #666;
   }
   
-  /* 📞 Contact */
+  /* Contact */
   .contact {
     padding: 80px 0;
     background: #f9f9f9;
@@ -265,7 +265,7 @@
     color: #e63946;
   }
   
-  /* 🦶 Footer */
+  /* Footer */
   .footer {
     background: #111;
     color: #fff;
@@ -274,7 +274,7 @@
     font-size: 0.9rem;
   }
   
-  /* 📱 Responsive */
+  /* Responsive */
   @media (max-width: 768px) {
     .about-grid {
       grid-template-columns: 1fr;
